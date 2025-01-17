@@ -16,8 +16,12 @@ body {
   height: 50px;
   padding-bottom: 800px;
   padding-left: 700px;
+  padding-top: 150px;
 }
-
+img {
+  max-width: 50%;
+  max-height: 50%;
+}
 .paper {
   background-image: url("https://i0.wp.com/textures.world/wp-content/uploads/2018/10/2-Millimeter-Paper-Background-copy.jpg?ssl=1");
   background-size: 500px;
